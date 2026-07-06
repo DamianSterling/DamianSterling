@@ -9,8 +9,9 @@
 - <b>Microsoft Azure</b>
   - [Azure Storage Account Project](https://github.com/DamianSterling/azure-storage-account-project)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DamianSterling/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
-  - - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DamianSterling/configure-ad)
-    - <h2>🤳Connect with me:</h2>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DamianSterling/configure-ad)
+  
+ <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Damiansterling | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
