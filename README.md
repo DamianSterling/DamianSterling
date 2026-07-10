@@ -6,10 +6,11 @@
   - [osTicket: Prerequisites and Installation](https://github.com/DamianSterling/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/DamianSterling/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DamianSterling/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+   
+- <b>Microsoft Azure & Active Directory</b>
   - [Azure Storage Account Project](https://github.com/DamianSterling/azure-storage-account-project)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DamianSterling/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DamianSterling/configure-ad)
+  - [Active Directory User Provisioning & RBAC](https://github.com/DamianSterling/active-directory-rbac-user-provisioning)
   
  <h2>🤳Connect with me:</h2>
 
