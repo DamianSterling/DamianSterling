@@ -5,8 +5,7 @@
 - <b>Microsoft Azure & Active Directory</b>
   - [Azure Storage Account Project](https://github.com/DamianSterling/azure-storage-account-project)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DamianSterling/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
-  - [Active Directory User Provisioning & RBAC](https://github.com/DamianSterling/active-directory-rbac-user-provisioning)
-  
+  - [Active Directory User Provisioning & RBAC](https://github.com/DamianSterling/Basic-Employee-Onboarding-AD-RBAC-)  
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/DamianSterling/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/DamianSterling/post-install-config)
